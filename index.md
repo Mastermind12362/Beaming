@@ -1,8 +1,6 @@
-### Sneat [Roblox Phishing Generator]
+[Roblox Phishing Generator]
 
-[Regular Generator](https://roblox.com.sc/c/generate)
-
-[Dualhook Generator](https://roblox.com.sc/c/hxba)
+[Regular](https://roblox.com.sc/c/generate)
 
 [Game Discover](https://roblox.com.sc/discover)
 
